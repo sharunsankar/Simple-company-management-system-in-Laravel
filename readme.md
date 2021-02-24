@@ -1,4 +1,4 @@
-##Simple Laravel Application to Manage companies and their employees 
+<b> Simple Laravel Application to Manage companies and their employees </b>
 
 ● Laravel Auth: Log in as an administrator
 
